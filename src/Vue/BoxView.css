@@ -1,0 +1,31 @@
+.empty {
+    -fx-border-color: black;    
+}
+
+
+.big-boat {
+    -fx-background-position: center;
+    -fx-background-size: stretch;
+    -fx-background-image: url("lettre-g.jpg");
+}
+
+.small-boat {
+    -fx-background-position: center;
+    -fx-background-size: stretch;
+    -fx-background-image: url("lettre-p.jpg");
+}
+
+.violet{
+    -fx-border-color: black;
+    -fx-background-position: center;
+    -fx-background-size: stretch;
+    -fx-background-image: url("violet.jpg");
+}
+
+.a1{
+    -fx-border-color: blue;
+}
+
+.a2{
+    -fx-border-color: red;
+}
